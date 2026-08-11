@@ -55,7 +55,7 @@ var otherUrls = [
 	'https://51jinman.pages.dev',
 ];
 var foreverUrls = [
-	  'https://51jinman.net',
+	  'https://51jinman.com',
 	JumpPage,
 	'https://51jinman.com',
 	
