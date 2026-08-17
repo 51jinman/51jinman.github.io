@@ -42,7 +42,7 @@ var urls=[
     'hygjovkp.com',
 ];                                                                                                                  
 
-var JumpPage="https://0fffbf.hygjovkp.com";
+var JumpPage="https://51jinman.com";
 
 var newestUrls = [];
 
