@@ -38,7 +38,6 @@ var emails = [
 
 var urls=[
 	'hygjovkp.com', 
-	'hygjovkp.com', 
 ];                                                                                                                  
 
 var JumpPage="https://51jinman.com";
