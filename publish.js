@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'zliefadag.com', 
+	'baprpaji.cc', 
 ];                                                                                                                  
 
 var JumpPage="https://51jinman.com";
