@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'junxmcti.cc', 
+	'tuivahqgi.cc', 
 ];                                                                                                                  
 
 var JumpPage="https://51jinman.com";
