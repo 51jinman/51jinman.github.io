@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'rdltesign.cc', 
+	'pxdspgny.cc', 
 ];                                                                                                                  
 
 var JumpPage="https://51jinman.com";
