@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'wojmynrsp.cc', 
+	'rdltesign.cc', 
 ];                                                                                                                  
 
 var JumpPage="https://51jinman.com";
